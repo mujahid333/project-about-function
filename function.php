@@ -25,7 +25,7 @@ https://templatemo.com/tm-539-simple-house
 	<!-- Top box -->
 		<!-- Logo & Site Name -->
 		<div class="placeholder">
-			<div class="parallax-window" data-parallax="scroll" data-image-src="img/w1.jpg">
+			<div class="parallax-window" data-parallax="scroll" data-image-src="img/5.jpg">
 				<div class="tm-header">
 					<div class="row tm-header-inner">
 						<div class="col-md-6 col-12">
